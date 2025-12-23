@@ -84,5 +84,5 @@ BridgeLabz-Training/
 
 ## Author
 
-**Manas Verma**  
+**Aryan Verma**  
 BridgeLabz (Capgemini) Trainee
