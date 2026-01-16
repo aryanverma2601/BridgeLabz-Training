@@ -80,9 +80,12 @@ BridgeLabz-Training/
 |   +-- gcr-codebase/
 |   |   |
 |   |   +-- linked-list/
+|   |   |
 |   |   +-- stack-queue-hashmap/
+|   |   |
 |   |   +--sorting
-|   +-- leet
+|   |
+|   +-- leet-code
 |
 ```
 
