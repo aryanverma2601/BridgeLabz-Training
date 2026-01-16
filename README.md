@@ -220,7 +220,7 @@ BridgeLabz-Training/
 
 ### 16-Jan-2026 (Friday)
 
-- Solved DSA Practice Problems (Sorting Algorithms) [Click here for reference]()
+- Solved DSA Practice Problems (Sorting Algorithms) [Click here for reference](https://github.com/aryanverma2601/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting)
 - Solved LeetCode Questions [Click here for reference](https://github.com/aryanverma2601/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code)
 
 ## Author
