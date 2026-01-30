@@ -1,4 +1,4 @@
-package src.test.java;
+
 
 import Junit.src.main.java.org.example.DatabaseConnection;
 import org.junit.jupiter.api.Test;

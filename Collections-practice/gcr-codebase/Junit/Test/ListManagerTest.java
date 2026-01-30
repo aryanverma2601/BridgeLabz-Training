@@ -1,4 +1,3 @@
-package src.test.java;
 
 import Junit.src.main.java.org.example.ListManager;
 import org.junit.jupiter.api.BeforeEach;

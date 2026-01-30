@@ -1,4 +1,4 @@
-package src.test.java;
+
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 import src.main.java.org.example.NumberUtils;

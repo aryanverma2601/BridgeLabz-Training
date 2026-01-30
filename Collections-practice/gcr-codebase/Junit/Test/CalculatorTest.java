@@ -1,4 +1,4 @@
-package src.test.java;
+
 import static org.junit.Assert.assertEquals;
 import Junit.src.main.java.org.example.Calculator;
 import org.junit.Test;

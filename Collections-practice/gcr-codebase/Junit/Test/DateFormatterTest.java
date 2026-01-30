@@ -1,4 +1,3 @@
-package src.test.java;
 
 import org.junit.jupiter.api.Test;
 import src.main.java.org.example.DateFormatter;

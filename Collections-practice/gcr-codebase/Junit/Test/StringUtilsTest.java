@@ -1,4 +1,3 @@
-package src.test.java;
 
 import Junit.src.main.java.org.example.StringUtils;
 import org.junit.Test;
