@@ -8,7 +8,7 @@ class InsuranceClaim     {
         this.claimAmount = claimAmount;
     }
 }
-class Main {
+class Insurance {
     public static void main(String[] args) {
         List<InsuranceClaim> claims = Arrays.asList(
             new InsuranceClaim("Health", 50000),
